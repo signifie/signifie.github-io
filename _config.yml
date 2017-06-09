@@ -16,7 +16,7 @@
 title: 홀로 듣는 라디오
 email: vinternatten1@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  A lone journey to the deep.
+  A lone journey to the deep
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://signifie.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
